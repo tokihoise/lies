@@ -1,0 +1,48 @@
+* {
+	box-sizing:border-box;}
+
+
+/* Extra small device */
+
+@media (max-width:576px) {
+	
+    .hahe{display:flex;
+        flex-direction: column;    }
+
+    .hahea{border:white}
+
+    }  
+/* Small */
+
+@media (min-width:576px) and (max-width:767px) {
+	
+	
+}
+/* Medium */
+@media (min-width:767px)and (max-width:991px) {
+	
+	
+}
+
+/* large */
+@media (min-width:991px) and (max-width:1192px) {
+	
+	
+}
+/* Extra large */
+@media (min-width:1192px)  {
+	
+	
+}
+
+
+.hahe{background-color: black;
+         display:flex ;   
+        justify-content: flex-end;}
+
+.hahe a{padding:30px;
+        color:white;
+        text-decoration:none;
+        font-size:3vw;  }         
+.hahe a:hover{background-color: white;
+            color:black}
